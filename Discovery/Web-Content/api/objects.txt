@@ -779,6 +779,7 @@ gentoo
 german
 gest
 get
+getUser
 get_file
 getconfig
 getfile
