@@ -782,6 +782,8 @@ get
 getUser
 get_file
 getconfig
+getContextInfo
+getUserTrackInfo
 getfile
 gettxt
 gfx
