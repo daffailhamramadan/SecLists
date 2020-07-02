@@ -785,6 +785,7 @@ getconfig
 getUserDefaultAddresses
 getContextInfo
 getUserTrackInfo
+getCsrfToken
 getfile
 gettxt
 gfx
